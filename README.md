@@ -66,6 +66,7 @@ Hi there, I'm **Chinmay Mondkar**, a **Information Technology Engineering studen
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=chinu2003&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="chinmay's GitHub Stats">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chinu2003&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chinu2003&theme=dark&hide_border=false)<br/>

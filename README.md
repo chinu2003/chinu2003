@@ -64,9 +64,9 @@ Hi there, I'm **Chinmay Mondkar**, a **Information Technology Engineering studen
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=chinu2003&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="chinmay's GitHub Stats">
 
 # 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=chinu2003&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="chinmay's GitHub Stats">
 ![](https://github-readme-stats.vercel.app/api?username=chinu2003&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chinu2003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinu2003&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
